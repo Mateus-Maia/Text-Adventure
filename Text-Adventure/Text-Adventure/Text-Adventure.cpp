@@ -251,7 +251,8 @@ void navegacao(int VidaJogador) {
 			std::cout << "\n--------------------------------------\n"; //Mostra a mensagem no console
 			std::cout << "\n--------------------------------------\n"; //Mostra a mensagem no console
 			std::cout << "\n--------------------------------------\n"; //Mostra a mensagem no console
-			navegacao(VidaJogador);
+			navegacao(VidaJogador);  
+			//
 		}
 		else {
 			int vidaMaquina = 5;
